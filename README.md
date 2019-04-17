@@ -19,3 +19,11 @@ Sentiment analysis, classification, clustering, recommender
 ## Tasks
 
 Recommend using predicted review rating
+
+## Related Repos
+
+- https://github.com/datasciencesociety/recommender-affr
+
+## Structure of the project
+
+- http://binary-notes.ru/activity-structure-in-data-science-group/
