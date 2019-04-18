@@ -1,8 +1,7 @@
 # Amazon Fine Food Recommendation
 
-- [Project Wiki](https://xtrmstep.github.io/affr/)
+- [Project Wiki](https://datasciencesociety.github.io/recommender-affr/)
 - [Dataset](https://www.kaggle.com/snap/amazon-fine-food-reviews/home)
-- [DSS repo](https://github.com/datasciencesociety/recommender-affr)
 
 ## Abstract
 
