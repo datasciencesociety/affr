@@ -1,5 +1,9 @@
 # Amazon Fine Food Recommendation
 
+- [Project Wiki](https://xtrmstep.github.io/affr/)
+- [Dataset](https://www.kaggle.com/snap/amazon-fine-food-reviews/home)
+- [DSS repo](https://github.com/datasciencesociety/recommender-affr)
+
 ## Abstract
 
 The aim is to build a model for a recommendation system based on data from Amazon Fine Food Reviews.
@@ -8,22 +12,11 @@ The aim is to build a model for a recommendation system based on data from Amazo
 
 Sentiment analysis, classification, clustering, recommender
 
-## Dataset
-
-- https://www.kaggle.com/snap/amazon-fine-food-reviews/home
-
 ## Articles
 
-- https://github.com/Neocryan/Amazon-Fine-Food-Recommendation/blob/master/Amazon_Fine_Food_Review.pdf
+- [Structure of the project](http://binary-notes.ru/activity-structure-in-data-science-group/)
+- [Related work](https://github.com/Neocryan/Amazon-Fine-Food-Recommendation/blob/master/Amazon_Fine_Food_Review.pdf)
 
 ## Tasks
 
 Recommend using predicted review rating
-
-## Related Repos
-
-- https://github.com/datasciencesociety/recommender-affr
-
-## Structure of the project
-
-- http://binary-notes.ru/activity-structure-in-data-science-group/
